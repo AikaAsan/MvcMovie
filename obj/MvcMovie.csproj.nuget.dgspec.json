@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/aika/Downloads/MvcMovie/MvcMovie/MvcMovie.csproj": {}
+    "/Users/aika/Documents/MvcMovie/MvcMovie/MvcMovie.csproj": {}
   },
   "projects": {
-    "/Users/aika/Downloads/MvcMovie/MvcMovie/MvcMovie.csproj": {
+    "/Users/aika/Documents/MvcMovie/MvcMovie/MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/aika/Downloads/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectUniqueName": "/Users/aika/Documents/MvcMovie/MvcMovie/MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "/Users/aika/Downloads/MvcMovie/MvcMovie/MvcMovie.csproj",
+        "projectPath": "/Users/aika/Documents/MvcMovie/MvcMovie/MvcMovie.csproj",
         "packagesPath": "/Users/aika/.nuget/packages/",
-        "outputPath": "/Users/aika/Downloads/MvcMovie/MvcMovie/obj/",
+        "outputPath": "/Users/aika/Documents/MvcMovie/MvcMovie/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/aika/.config/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "I+SOyuFOXKqAYw1FDTLsaIjFOi4+otx91OkkAF5VAIMIwqi2h3Fy6XLOlzm4VOANC/gmtR8wuV0SKc3jHF6MMA==",
+  "dgSpecHash": "GfHyqUWSnDr7yNf8RIt5mJWpWizeRk5d/5z7FQ+JJ93Wv3FUyHkk+ApkS1OUUfXmxHL8yr/y3AGdzTPXCCs+eQ==",
   "success": true,
-  "projectFilePath": "/Users/aika/Downloads/MvcMovie/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "/Users/aika/Documents/MvcMovie/MvcMovie/MvcMovie.csproj",
   "expectedPackageFiles": [
     "/Users/aika/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "/Users/aika/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
